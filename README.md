@@ -46,3 +46,10 @@ Interact with the CLI using the prompts.
 - `alerts.txt`: persistent list of active alerts; each line is `name,threshold`.
 
 - `alert-notification.txt`: single line human-readable notification written when an alert triggers (ex,, `Alert: potato quantity is below 3`).
+
+# UML DIAGRAMS
+
+![View Inventory Sequence](view_inv.png)
+![Update Inventory Sequence](update_inv.png)
+![Set Alert Sequence](set_aert.png)
+
